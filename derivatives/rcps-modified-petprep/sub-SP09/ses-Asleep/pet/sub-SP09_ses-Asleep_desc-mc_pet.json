@@ -1,0 +1,9 @@
+{
+  "Description": "Non motion-corrected PET file",
+  "Sources": "/Volumes/Crucial_X6/nimh/ds004311/curated/sub-SP09/ses-Asleep/pet/sub-SP09_ses-Asleep_pet.nii.gz",
+  "ReferenceImage": "",
+  "CostFunction": "",
+  "QC": "",
+  "SoftwareName": "",
+  "SoftwareVersion": ""
+}

@@ -1,0 +1,9 @@
+{
+  "Description": "Non motion-corrected PET file",
+  "Sources": "/Volumes/Crucial_X6/nimh/ds004311/curated/sub-SP20/ses-SleepDeprived/pet/sub-SP20_ses-SleepDeprived_pet.nii.gz",
+  "ReferenceImage": "",
+  "CostFunction": "",
+  "QC": "",
+  "SoftwareName": "",
+  "SoftwareVersion": ""
+}
