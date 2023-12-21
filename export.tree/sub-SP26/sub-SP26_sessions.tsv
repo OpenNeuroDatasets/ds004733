@@ -1,0 +1,4 @@
+session_id	age	weight	height	acq_time	percent_time_awake	percent_time_stage_1	percent_time_stage_2	percent_time_stage_3	percent_time_rem
+ses-Asleep	21	100.2	191	2015-02-01T00:00:00	0	5	24	52	20
+ses-Awake	21	100.2	191	2015-02-01T00:00:00	100	0	0	0	0
+ses-SleepDeprived	21	100.2	191	2015-02-01T00:00:00	100	0	0	0	0

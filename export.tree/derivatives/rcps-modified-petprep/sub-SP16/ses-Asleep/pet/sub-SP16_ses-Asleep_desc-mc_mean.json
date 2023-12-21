@@ -1,0 +1,7 @@
+{
+  "Description": "Mean PET image averaged across all time frames",
+  "Sources": "/Volumes/Crucial_X6/nimh/ds004311/curated/derivatives/PETPrep1/sub-SP16/ses-Asleep/pet/sub-SP16_ses-Asleep_desc-mc_pet.nii.gz",
+  "SoftwareName": "FreeSurfer-mri_concat",
+  "SoftwareVersion": "mri_concat freesurfer 7.3.2\n",
+  "CommandLine": "mri_concat /Volumes/Crucial_X6/nimh/ds004311/curated/derivatives/PETPrep1/sub-SP16/ses-Asleep/pet/sub-SP16_ses-Asleep_desc-mc_pet.nii.gz --mean --o /Volumes/Crucial_X6/nimh/ds004311/curated/derivatives/PETPrep1/sub-SP16/ses-Asleep/pet/sub-SP16_ses-Asleep_desc-mc_mean.nii.gz"
+}
