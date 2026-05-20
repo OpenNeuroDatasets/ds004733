@@ -1,0 +1,4 @@
+session_id	age	weight	height	acq_time	percent_time_awake	percent_time_stage_1	percent_time_stage_2	percent_time_stage_3	percent_time_rem
+ses-Asleep	20	82.3	0	2010-06-01T00:00:00	15	9	1	75	0
+ses-SleepDeprived	20	82.3	0	2010-06-01T00:00:00	85	9	7	0	0
+ses-Awake	20	82.3	0	2010-06-01T00:00:00	98	3	0	0	0

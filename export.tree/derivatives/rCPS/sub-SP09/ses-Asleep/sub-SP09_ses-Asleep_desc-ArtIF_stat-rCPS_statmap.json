@@ -1,0 +1,1 @@
+{"Description":"rates of Cerebral Protein Synthesis","Parameter":{"Name":"rCPS","Units":"nmol/g/min","Estimation":{"Method":"Voxelwise Basis Function Method (BFM)","InputFunctions":"ArterialInputFunctions (ArtIF)","PETEmissionDataInterval":[0,60],"PETEmissionDataIntervalUnits":["minutes","minutes"]}}}
